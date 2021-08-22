@@ -7,6 +7,9 @@ I am interested in modeling numberical quantities in text, tables, long document
 Previously, I studied computer science at the College of Creative Studies at UC Santa Barbara.
 
 ## Papers
+- BERT Classification of Paris Agreement Climate Action Plans
+    + Tom Corringham,  Daniel Spokoyny, Eric Xiao, Christopher Cha, Colin Lemarchand, Mandeep Syal, Ethan Olson, Alexander Gershunov
+    + ICML 2021 Workshop on Tackling Climate Change with Machine Learning
 - An Empirical Investigation of Contextualized Number Prediction. 
     + **Daniel Spokoyny** and Taylor Berg-Kirkpatrick.
     + EMNLP 2020  
