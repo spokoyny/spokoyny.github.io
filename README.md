@@ -3,7 +3,7 @@
 
 ## About
 I am fourth year PhD student at CMU working with [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) (permanently remote at San Diego).
-I am interested in modeling numberical quantities in text, tables, long documents and spreadsheets.
+I am interested in modeling numerical quantities in text, tables, long documents and spreadsheets.
 Previously, I studied computer science at the College of Creative Studies at UC Santa Barbara.
 
 ## Papers
