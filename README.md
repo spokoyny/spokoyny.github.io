@@ -41,6 +41,7 @@ Previously, I studied computer science at the College of Creative Studies at UC 
     - As a part of Google Search's Web Answers team, developed and experimented with numerical regression pretraining and transfer learning methods to improve accuracy for a downstream question answering task.
 
 ## Talks
+- Poster **Numerical Correlation in Text** and **ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English** at SoCal NLP 2022
 - **Modeling Numerical Quantities to Extract Measurements from Climate Text Sources** at Doctoral Consortium on Computational Sustainability 2022
 - **NLP For Climate Documents** for *AI for Climate Change Bootcamp* at Stanford 2022
 - **Machine Learning Model Compression** for *Computing for the Cloud and Internet of Things Class* at UCSB 2022
