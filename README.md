@@ -43,9 +43,17 @@ Previously, I studied computer science at the College of Creative Studies at UC 
 ## Talks
 - **Applying Artificial Intelligence for Climate Action** for Climate in HiTech Course at Afeka Tel Aviv 2022
 - Poster **Numerical Correlation in Text** and **ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English** at [SoCal NLP 2022](https://socalnlp.github.io/symp22/index.html)
-- **Modeling Numerical Quantities to Extract Measurements from Climate Text Sources** at Doctoral Consortium on Computational Sustainability 2022
+- **Modeling Numerical Quantities to Extract Measurements from Climate Text Sources** at Doctoral Consortium on [Computational Sustainability 2022](http://www.compsust.net/compsust-2022/program.php)
 - **NLP For Climate Documents** for *[AI for Climate Change Bootcamp](https://stanfordmlgroup.github.io/programs/aicc-bootcamp/#:~:text=The%20AI%20for%20Climate%20Change,research%20on%20high%20impact%20problems.)* at Stanford 2022
 - **Machine Learning Model Compression** for *Computing for the Cloud and Internet of Things Class* at UCSB 2022
+
+## Teaching
+- Teaching Assistant, Undergraduate and Graduate Natural Language Processing, CMU (Fall 2021)
+- Teaching Assistant, [Undergraduate Machine Learning](https://cseweb.ucsd.edu/classes/wi19/cse151-b/), UCSD (Winter 2019)
+- Co-Instructor, [Topics in Machine Learning](https://ccs-machine-learning-course.github.io/), UCSB (Spring 2017)
+- Instructor, [Graduate Seminar on Safety in AI](https://ai-safety.github.io/), UCSB (Fall 2016)
+- Co-Instructor, [Introduction to NLP and Machine Learning](http://computer-learning.github.io/class/), UCSB (Winter 2016)
+- Co-Instructor, [Graduate Statistical Learning Theory Colloquium](http://statistical-learning.github.io/), UCSB (Winter 2015)
 
 
 ## Volunteer
