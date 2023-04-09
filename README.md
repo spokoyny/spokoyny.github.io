@@ -59,6 +59,7 @@ Previously, I studied computer science at the College of Creative Studies at UC 
 ## Volunteer
 - Core Member at [Climate Change AI](https://www.climatechange.ai/)
     - Climate Change AI is a non-profit that organizes academic workshops, distributes grants, and partners with other organizations to promote the use of AI for climate change. I have helped organize a virtual two week long summer school this past year with 80+ participants and over 20+ hours of new content on climate change and AI.
+    - [New program fosters next generation of climate change, AI thought leaders](https://data.berkeley.edu/news/new-program-fosters-next-generation-climate-change-ai-thought-leaders)
 
 ## Contact
 Email: dspokoyn@cs.cmu.edu
