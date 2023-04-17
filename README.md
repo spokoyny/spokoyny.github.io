@@ -61,7 +61,13 @@ Previously, I studied computer science at the College of Creative Studies at UC 
     - Climate Change AI is a non-profit that organizes academic workshops, distributes grants, and partners with other organizations to promote the use of AI for climate change. I have helped organize a virtual two week long summer school this past year with 80+ participants and over 20+ hours of new content on climate change and AI.
     - [New program fosters next generation of climate change, AI thought leaders](https://data.berkeley.edu/news/new-program-fosters-next-generation-climate-change-ai-thought-leaders)
 
+## Participated
+- [CMU TartanX Fintech](https://www.tartanx.co/fintech)
+- [CMU Future Founders](https://www.cmute.io/future-founder)
+- [Fintech DevCon](https://fintechdevcon.io/)
+- [Madrona LLM Launchable](https://www.madronavl.com/launchable/foundation-models)
+
 ## Contact
 Email: dspokoyn@cs.cmu.edu
-Office:
+Office: UCSD CSE 3242
 
