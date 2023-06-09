@@ -48,6 +48,7 @@ Previously, I studied computer science at the College of Creative Studies at UC 
 - **Machine Learning Model Compression** for *Computing for the Cloud and Internet of Things Class* at UCSB 2022
 
 ## Teaching
+- Co-Lead, Seminar on Training Large Language Models, UCSD (Spring 2023)
 - Teaching Assistant, Undergraduate and Graduate Natural Language Processing, CMU (Fall 2021)
 - Teaching Assistant, [Undergraduate Machine Learning](https://cseweb.ucsd.edu/classes/wi19/cse151-b/), UCSD (Winter 2019)
 - Co-Instructor, [Topics in Machine Learning](https://ccs-machine-learning-course.github.io/), UCSB (Spring 2017)
