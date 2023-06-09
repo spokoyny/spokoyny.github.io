@@ -7,7 +7,7 @@ My research focuses on modeling numerical quantities in unstructured texts, tabl
 Further I aim to apply numerically pretrained transformers to downstream applications to extract information from unstructured climate reports.
 Previously, I studied computer science at the College of Creative Studies at UC Santa Barbara.
 
-## Papers
+## [Papers](https://www.semanticscholar.org/author/Daniel-M.-Spokoyny/2064240141)
 - Numerical Correlation in Text
     + **Daniel Spokoyny** and Chien-Sheng Wu and Caiming Xiong
     + EMNLP Workshop on Mathematical Natural Language Processing 2022
@@ -25,7 +25,7 @@ Previously, I studied computer science at the College of Creative Studies at UC 
     + EMNLP 2020  
 - Lagging Inference Networks and Posterior Collapse in Variational Autoencoders
     + Junxian He, **Daniel Spokoyny**, Graham Neubig, Taylor Berg-Kirkpatrick
-    + ICLR 2019. [arxiv](https://arxiv.org/abs/1901.05534)[code](https://github.com/jxhe/vae-lagging-encoder)
+    + ICLR 2019. [arxiv](https://arxiv.org/abs/1901.05534) [code](https://github.com/jxhe/vae-lagging-encoder)
 
 ## Professional Experience
 - Research Intern, Salesforce Research, Palo Alto Summer 2022 
