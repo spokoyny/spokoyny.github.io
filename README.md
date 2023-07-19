@@ -8,6 +8,9 @@ Further I aim to apply numerically pretrained transformers to downstream applica
 Previously, I studied computer science at the College of Creative Studies at UC Santa Barbara.
 
 ## [Papers](https://www.semanticscholar.org/author/Daniel-M.-Spokoyny/2064240141)
+- [NLP Tutorials for Climate Change AI Summer School 2023](https://github.com/dspoka/ccai-nlp-tutorial-2023)
+    - [Part 1: Evidence Synthesis](https://github.com/dspoka/ccai-nlp-tutorial-2023/blob/main/1_evidence_synthesis.ipynb)
+    - [Part 2: Prompts for Sustainable Development Goals](https://github.com/dspoka/ccai-nlp-tutorial-2023/blob/main/2_paris_prompts.ipynb)
 - Numerical Correlation in Text
     + **Daniel Spokoyny** and Chien-Sheng Wu and Caiming Xiong
     + EMNLP Workshop on Mathematical Natural Language Processing 2022
@@ -61,6 +64,7 @@ Previously, I studied computer science at the College of Creative Studies at UC 
 - Core Member at [Climate Change AI](https://www.climatechange.ai/)
     - Climate Change AI is a non-profit that organizes academic workshops, distributes grants, and partners with other organizations to promote the use of AI for climate change. I have helped organize a virtual two week long summer school this past year with 80+ participants and over 20+ hours of new content on climate change and AI.
     - [New program fosters next generation of climate change, AI thought leaders](https://data.berkeley.edu/news/new-program-fosters-next-generation-climate-change-ai-thought-leaders)
+- [Mentored at SDxAI 23 Hackathon](https://lu.ma/sdxai)
 
 ## Participated
 - [CMU TartanX Fintech](https://www.tartanx.co/fintech)
