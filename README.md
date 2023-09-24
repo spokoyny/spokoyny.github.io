@@ -23,7 +23,7 @@ Previously, I studied computer science at the College of Creative Studies at UC 
 - BERT Classification of Paris Agreement Climate Action Plans
     + Tom Corringham, **Daniel Spokoyny**, Eric Xiao, Christopher Cha, Colin Lemarchand, Mandeep Syal, Ethan Olson, Alexander Gershunov
     + ICML 2021 Workshop on Tackling Climate Change with Machine Learning
-    + [Slides](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/45/slides.pdf)
+    + [Paper](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/45/paper.pdf), [Slides](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/45/slides.pdf)
 - An Empirical Investigation of Contextualized Number Prediction. 
     + **Daniel Spokoyny** and Taylor Berg-Kirkpatrick.
     + EMNLP 2020  
