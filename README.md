@@ -14,16 +14,18 @@ Previously, I studied computer science at the College of Creative Studies at UC 
 - Numerical Correlation in Text
     + **Daniel Spokoyny** and Chien-Sheng Wu and Caiming Xiong
     + EMNLP Workshop on Mathematical Natural Language Processing 2022
-- ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English
+- Towards Answering Climate Questionnaires from Unstructured Climate Reports
+    - ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English
     + *Daniel Spokoyny* and Tanmay Laud and Tom Corringham and Taylor Berg-Kirkpatrick
     + EMNLP Workshop on NLP for Positive Impact 2022
+    + [Arxiv](https://arxiv.org/abs/2301.04253)
 - Masked Measurement Prediction: Learning to Jointly Predict Quantities and Units from Textual Context
     + **Daniel Spokoyny** and Ivan Lee and Zhao Jin and Taylor Berg-Kirkpatrick
     + Findings at NAACL 2022
 - BERT Classification of Paris Agreement Climate Action Plans
     + Tom Corringham, **Daniel Spokoyny**, Eric Xiao, Christopher Cha, Colin Lemarchand, Mandeep Syal, Ethan Olson, Alexander Gershunov
     + ICML 2021 Workshop on Tackling Climate Change with Machine Learning
-    + [Paper](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/45/paper.pdf), [Slides](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/45/slides.pdf)
+    + [Paper/Slides/Talk](https://www.climatechange.ai/papers/icml2021/45)
 - An Empirical Investigation of Contextualized Number Prediction. 
     + **Daniel Spokoyny** and Taylor Berg-Kirkpatrick.
     + EMNLP 2020  
