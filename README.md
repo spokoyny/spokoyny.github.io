@@ -2,12 +2,16 @@
 ![pic](resources/bio.jpeg)
 
 ## About
-I am sixth year PhD student at CMU working with [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) (permanently remote at San Diego).
-My research focuses on modeling numerical quantities in unstructured texts, tables, long documents and spreadsheets.
-Further I aim to apply numerically pretrained transformers to downstream applications to extract information from unstructured climate reports.
-Previously, I studied computer science at the College of Creative Studies at UC Santa Barbara.
+I am postdoc at UC San Diego co-leading an [LLM security project](https://sms-analytics.sysnet.ucsd.edu/) on social engineering scams with [Nikolai](https://nvog.github.io/)
+collaborating with [Stefan Savage](https://cseweb.ucsd.edu/~savage/) and [Geoffrey M. Voelker](https://cseweb.ucsd.edu/~voelker/)
+
+I defended my PhD from CMU working with [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). During my PhD, I conducted core NLP research on modeling and reasoning over numerical quantities in text, including developing architectures for continuous number prediction, jointly modeling quantities and units, and evaluating to what extent existing transformer models can handle novel numerically focused tasks involving correlation and measurement understanding. I also explored the application of language models to the climate domain, introducing benchmarks for classifying and analyzing unstructured climate documents, aligning national plans with sustainability goals, and leveraging semi-structured climate questionnaires as weak supervision for improved transfer learning to real-world climate texts.
+Previously, I studied computer science at the College of Creative Studies at UC Santa Barbara and was advised by Murat Karaorman, [Fermin Moscoso del Prado Martin](https://www.jesus.cam.ac.uk/people/Fermin-Moscoso-del-Prado-Martin), and [William Wang](https://sites.cs.ucsb.edu/~william/).
 
 ## [Papers](https://www.semanticscholar.org/author/Daniel-M.-Spokoyny/2064240141)
+- [Aligning Unstructured Paris Agreement Climate Plans with Sustainable Development Goals](https://aclanthology.org/2024.climatenlp-1.17.pdf)
+    - **Daniel Spokoyny**, Janelle Cai, Tom Corringham, and Taylor Berg-Kirkpatrick.
+    - ACL 2024 Workshop on Natural Language Processing Meets Climate Change
 - [NLP Tutorials for Climate Change AI Summer School 2023](https://github.com/dspoka/ccai-nlp-tutorial-2023)
     - [Part 1: Evidence Synthesis](https://github.com/dspoka/ccai-nlp-tutorial-2023/blob/main/1_evidence_synthesis.ipynb)
     - [Part 2: Prompts for Sustainable Development Goals](https://github.com/dspoka/ccai-nlp-tutorial-2023/blob/main/2_paris_prompts.ipynb)
