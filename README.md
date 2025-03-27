@@ -51,6 +51,8 @@ Previously, I studied computer science at the College of Creative Studies at UC 
     - As a part of Google Search's Web Answers team, developed and experimented with numerical regression pretraining and transfer learning methods to improve accuracy for a downstream question answering task.
 
 ## Talks
+- Turning Climate Reports into Climate Action with AI at Voices of Data Science Symposium at UMass Amherst 2025
+- ClimaBench and ClimaQA at the NLP for Climate Adaptation Workshop at Wageningen University & Research 2024
 - **Applying Artificial Intelligence for Climate Action** for Climate in HiTech Course at Afeka Tel Aviv 2022
 - Poster **Numerical Correlation in Text** and **ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English** at [SoCal NLP 2022](https://socalnlp.github.io/symp22/index.html)
 - **Modeling Numerical Quantities to Extract Measurements from Climate Text Sources** at Doctoral Consortium on [Computational Sustainability 2022](http://www.compsust.net/compsust-2022/program.php)
