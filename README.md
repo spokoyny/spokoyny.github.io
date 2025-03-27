@@ -82,6 +82,6 @@ Previously, I studied computer science at the College of Creative Studies at UC 
 - [Madrona LLM Launchable](https://www.madronavl.com/launchable/foundation-models)
 
 ## Contact
-Email: dspokoyn@cs.cmu.edu
+Email: dspokoyny@ucsd.edu
 Office: UCSD CSE 3242
 
